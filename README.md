@@ -1,2 +1,2 @@
-# HQ9-PlusX
-A Turing complete version of HQ9+. Also has most Brainf**k commands and some extra ones.
+# HQ9+-.,02RI~N[]
+HQ9+-.,02RI~N[] (or as we'll call it HQX+ to save us from a trip to the therapist) is a version of HQ9+ that is in fact, Turing Complete!
